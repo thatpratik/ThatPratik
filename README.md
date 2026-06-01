@@ -14,7 +14,8 @@
 <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30"/></a>
 </p>
-### 🛠️ I have also worked with ...
+
+### I have also worked with ...
 <p>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30"/></a>
