@@ -16,7 +16,7 @@ _Senior Software Engineer · FOSS Analytics · Copenhagen, Denmark_
 
 - Based in **Copenhagen, Denmark** — originally from India
 - Senior Software Engineer at **[FOSS Analytics](https://www.fossanalytics.com/en/)**
-- Building full-stack web apps with **React**, **Angular**, **Vue**, and **Node.js**
+- Building full-stack web apps with **React**, **Angular**, **Python**, **C#** and **Node.js**
 - Working across **Azure**, **Docker**, **Kubernetes**, and cloud-native architectures
 - Exploring **AI-driven agentic workflows** — CrewAI, LangChain, Claude API
 - Writing about tech and nomadic life at [@NomadicPratik](https://twitter.com/NomadicPratik)
@@ -75,39 +75,45 @@ _CrewAI · LangChain · Claude API · OpenAI_
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/ThatPratik/arkanoid">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thatpratik&repo=arkanoid&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%">
+      <h4><a href="https://github.com/ThatPratik/arkanoid">🎮 arkanoid</a></h4>
+      <p>Arkanoid game built with Angular and TypeScript</p>
+      <img src="https://img.shields.io/github/stars/ThatPratik/arkanoid?style=flat-square&logo=github&label=Stars&color=2563eb" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
-    <td>
-      <a href="https://github.com/ThatPratik/helpdesk-claude">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thatpratik&repo=helpdesk-claude&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ThatPratik/weather-app-agenticworkflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thatpratik&repo=weather-app-agenticworkflow&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ThatPratik/crew-ai-dryrun">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thatpratik&repo=crew-ai-dryrun&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%">
+      <h4><a href="https://github.com/ThatPratik/helpdesk-claude">🤖 helpdesk-claude</a></h4>
+      <p>AI-powered helpdesk integration using Claude API</p>
+      <img src="https://img.shields.io/github/stars/ThatPratik/helpdesk-claude?style=flat-square&logo=github&label=Stars&color=2563eb" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/ThatPratik/rock-paper-scissors-lizard-spock">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thatpratik&repo=rock-paper-scissors-lizard-spock&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%">
+      <h4><a href="https://github.com/ThatPratik/weather-app-agenticworkflow">⛅ weather-app-agenticworkflow</a></h4>
+      <p>Weather app powered by Python agentic workflows</p>
+      <img src="https://img.shields.io/github/stars/ThatPratik/weather-app-agenticworkflow?style=flat-square&logo=github&label=Stars&color=2563eb" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
-    <td>
-      <a href="https://github.com/ThatPratik/automata">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thatpratik&repo=automata&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%">
+      <h4><a href="https://github.com/ThatPratik/crew-ai-dryrun">🧠 crew-ai-dryrun</a></h4>
+      <p>Experiments with CrewAI multi-agent framework</p>
+      <img src="https://img.shields.io/github/stars/ThatPratik/crew-ai-dryrun?style=flat-square&logo=github&label=Stars&color=2563eb" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/ThatPratik/rock-paper-scissors-lizard-spock">🎲 rock-paper-scissors-lizard-spock</a></h4>
+      <p>Extended Rock Paper Scissors game in TypeScript</p>
+      <img src="https://img.shields.io/github/stars/ThatPratik/rock-paper-scissors-lizard-spock?style=flat-square&logo=github&label=Stars&color=2563eb" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/ThatPratik/automata">⚙️ automata</a></h4>
+      <p>Cellular automata visualizer in JavaScript</p>
+      <img src="https://img.shields.io/github/stars/ThatPratik/automata?style=flat-square&logo=github&label=Stars&color=2563eb" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
@@ -120,21 +126,13 @@ _CrewAI · LangChain · Claude API · OpenAI_
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thatpratik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Pratik's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=thatpratik&theme=tokyonight&hide_border=true" alt="Pratik's GitHub streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatpratik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+![Pratik's GitHub streak](https://streak-stats.demolab.com?user=thatpratik&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thatpratik&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
