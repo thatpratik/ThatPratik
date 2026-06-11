@@ -14,11 +14,11 @@ _Senior Software Engineer · FOSS Analytics · Copenhagen, Denmark_
 
 ## 👤 About me
 
-- Based in **Copenhagen, Denmark** — originally from India
+- Based in **Copenhagen, Denmark**, originally from India
 - Senior Software Engineer at **[FOSS Analytics](https://www.fossanalytics.com/en/)**
 - Building full-stack web apps with **React**, **Angular**, **Python**, **C#** and **Node.js**
-- Working across **Azure**, **Docker**, **Kubernetes**, and cloud-native architectures
-- Exploring **AI-driven agentic workflows** — CrewAI, LangChain, Claude API
+- Working across **Azure**, **Docker**, **Kubernetes**, and **cloud-native architectures**
+- Exploring **AI-driven agentic workflows** — CrewAI, LangChain, Claude API, OpenAI
 - Writing about tech and nomadic life at [@NomadicPratik](https://twitter.com/NomadicPratik)
 
 ---
