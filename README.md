@@ -140,11 +140,6 @@ _Senior Software Engineer · FOSS Analytics · Copenhagen, Denmark_
 <div align="center">
 
 ![Pratik's GitHub streak](https://streak-stats.demolab.com?user=thatpratik&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatpratik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
